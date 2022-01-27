@@ -8,6 +8,7 @@ bot.setCommand("!ip","elpolacosape2.mcnetwork.me")
 bot.setCommand("hola", "hola!")
 bot.setCommand("!version", "1.18.1")
 bot.setCommand("!host", "Canada, server.pro")
+bot.setCommand("!fuente", "https://github.com/Franchu812/Minecraft-FranchuDiscordBot-/blob/main/Bot.py")
 #comandos de el bot
 bot.run(os.environ['TOKEN'])
 #ejecutamos el bot con el TOKEN secreto
